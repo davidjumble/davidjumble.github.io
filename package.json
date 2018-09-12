@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/davidjumble/davidjumble.github.io/issues"
   },
-  "homepage": "https://github.com/davidjumble/davidjumble.github.io#readme"
+  "homepage": "https://github.com/davidjumble/davidjumble.github.io#readme",
+  "dependencies": {}
 }
