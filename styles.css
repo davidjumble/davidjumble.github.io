@@ -41,7 +41,7 @@ embed {
  */
 .headerimage {
   float: top;
-  width: 270px;
+  width: 250px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
@@ -69,16 +69,20 @@ embed {
 }
 
 .descriptions {
-  padding-top: 4%;
-  font-size: 120%;
+  width: 100%;
+  padding-top: 15%;
+  padding-bottom: 15%;
+  font-size: 140%;
   margin: auto;
   text-align: center;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: Futura, "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
-.iframe {
-  height: 60%;
+.links {
+  text-decoration: none;
+  color: rgb(43, 158, 204);
 }
+
 .focusimg {
   width: 50%;
   margin: 0px auto 0px auto;
